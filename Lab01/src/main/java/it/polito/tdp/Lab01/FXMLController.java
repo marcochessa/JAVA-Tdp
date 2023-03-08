@@ -72,7 +72,9 @@ public class FXMLController {
     void doInsert(ActionEvent event) {
     	
     	double start = System.nanoTime();
-    	elenco.addParola(txtParola.getText());
+    	String parola = txtParola.getText();
+    	if(!parola.isBlank())
+    		elenco.addParola(parola);
     	double stop = System.nanoTime();
     	
     	txtResult.clear();
@@ -82,7 +84,10 @@ public class FXMLController {
     	txtResult.setText(result);
     	
     	txtPerformance.clear();
-    	txtPerformance.setText("[INSERT]: " + (stop - start)/1e9 + " seconds");
+    	if(parola.isBlank())
+    		txtPerformance.setText("Parola non inserita!");
+    	else
+    		txtPerformance.setText("[INSERT]: " + (stop - start)/1e9 + " seconds");
     	
     	
     	txtParola.clear();
