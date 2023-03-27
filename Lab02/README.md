@@ -6,7 +6,7 @@ scienziati hanno chiesto di ideare un traduttore che possa aiutarli.
 Realizzare in linguaggio Java una semplice applicazione dotata di interfaccia grafica che funga da traduttore 
 di parole aliene. Deve essere possibile sia l’aggiunta di nuove parole che la ricerca di quelle esistenti. 
  
-Lo scopo del programma (Figura 1) è quello di permettere all’utente di: 
+Lo scopo del programma è quello di permettere all’utente di: 
  
 - Inserire una nuova parola e la relativa traduzione secondo il seguente pattern:  
 <parola aliena> <traduzione> (separate da uno spazio) 
