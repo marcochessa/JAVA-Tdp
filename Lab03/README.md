@@ -2,7 +2,6 @@
 Dopo aver fatto il fork del progetto relativo al laboratorio 3, creare in Java una semplice applicazione dotata 
 di  interfaccia  grafica  che  funga  da  correttore  ortografico  di  parole:  dato  un  testo  in  input,  il  programma 
 stampa  le  parole  errate,  il  numero  di  errori,  e  il  tempo  impiegato  per  effettuare  il  controllo  ortografico. 
-L’interfaccia grafica dell’applicazione deve rispecchiare quella riportata in Figura 1. 
 In  particolare,  l’utente  inserisce  un  testo  che  vuole  verificare  nella  casella  di  testo  in  alto.  Dopo  aver 
 selezionato  la  lingua  da  utilizzare,  fa  click  sul  bottone  Spell  Check  per  avviare  il  controllo  ortografico.  Si 
 suggerisce  di  filtrare  il  testo  ricevuto  in  input  trasformandolo  tutto  in  minuscolo  ed  eliminando  i  segni  di 
