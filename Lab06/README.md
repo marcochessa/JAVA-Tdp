@@ -1,14 +1,6 @@
-﻿**03FYZ TECNICHE DI PROGRAMMAZIONE** Esercitazione di Laboratorio – 12/13 Aprile 2022 
+﻿
 
-Obiettivi dell’esercitazione: ![](Aspose.Words.77aa6138-2e22-4ab4-b54a-9d61742e4d42.001.png)
-
-- Apprendere il meccanismo della ricorsione 
-- Utilizzo del pattern MVC e DAO 
-- Utilizzo di JDBC ![](Aspose.Words.77aa6138-2e22-4ab4-b54a-9d61742e4d42.002.png)
-
-**Estratto e semplificato dal tema d’esame del 03/07/2014** 
-
-Il noto sito di previsioni meteorologiche “ilMeteo” (http://www.ilmeteo.it/) mette a  ![](Aspose.Words.77aa6138-2e22-4ab4-b54a-9d61742e4d42.003.png)disposizione,  gratuitamente,  un  archivio  storico[^1]  delle  principali  variabili  
+Il noto sito di previsioni meteorologiche ha un  archivio  storico[^1]  delle  principali  variabili  
 
 climatiche nelle città italiane, con cadenza quotidiana. 
 
