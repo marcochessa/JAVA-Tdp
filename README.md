@@ -1,11 +1,24 @@
 # JAVA-Tdp
-The course aims at complementing the programming abilities of the students, allowing them to face and solve application problems, even complex ones, through the development of software applications. In particular, the course integrates the skills acquired in former courses, in particular Object Oriented Programming and Data Bases, enabling students to create complete applications with graphical user interfaces and that access relational data bases. From the algorithmic point of view, after introducing recursion, the most common data structures (lists, trees, graphs) will be analyzed, and the most relevant simulation and optimization algorithms will be studied, in particular with concrete applications to the fields of logistics, production, and enterprise organization (e.g., resource allocation, scheduling, queuing network systems, transports, etc.).
 
-Repo arguments:
-* Java programming complements: graphic applications (JavaFX), access to databases (JDBC), main programming patterns (MVC, Singleton, Factory, DAO).
-* Data structures: lists, trees, graphs, priority queues, Java libraries for managing complex data structures (jGraphT).
-* Algorithms: recursion, recursive optimization, search and search procedures, in graphs, event simulation.
-* Problem solving: 
-  * research problems and optimization problems; 
-  * exhaustive (recursive) search techniques; 
-  * applications to cases of managerial interest 
+The Java-Tdp repository is dedicated to the Java Programming course, which aims to enhance students' programming skills, enabling them to tackle and solve complex application problems through the development of software applications. This course builds upon the knowledge acquired in previous courses, particularly Object-Oriented Programming and Databases, empowering students to create comprehensive applications with graphical user interfaces and relational database access.
+
+## Course Objectives
+
+- **Java Programming Complements**: The course covers topics such as graphic applications using JavaFX, database access with JDBC, and main programming patterns including MVC, Singleton, Factory, and DAO.
+- **Data Structures**: Students learn about various data structures such as lists, trees, graphs, and priority queues. The course also includes Java libraries for managing complex data structures, such as jGraphT.
+- **Algorithms**: Algorithmic concepts covered include recursion, recursive optimization, search algorithms, and graph algorithms. Students explore event simulation techniques as well.
+- **Problem Solving**: The course delves into research problems and optimization problems, teaching exhaustive (recursive) search techniques. Applications to real-world managerial scenarios are also explored.
+
+## Repository Contents
+
+This repository contains code examples, exercises, and projects related to the Java-Tdp course. Each section covers different topics and concepts taught during the course, providing hands-on experience and practical applications.
+
+## How to Use
+
+Students can explore the contents of this repository to reinforce their understanding of Java programming, data structures, algorithms, and problem-solving techniques. Code examples and exercises can be run and modified to experiment with different concepts and implementations.
+
+## Contents
+
+- **Code Examples**: Sample code snippets demonstrating various Java programming concepts covered in the course.
+- **Exercises**: Practice exercises for students to work on to reinforce their understanding of the course material.
+- **Projects**: Larger projects or assignments that apply the concepts learned in the course to real-world scenarios.
